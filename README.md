@@ -1,1 +1,1 @@
-
+design and construct a mechatronics controller that interacts with the user and receives input through a Man-Machine Communication Interface, automatically opens a given dial lock with three numbers given, and manually operate the motor through designated keys. Two main modes are featured: automatic and manual mode. Manual mode allows the user to use preset keys to move the dial set intervals. Automatic mode prompts the user to enter three values before moving to the values automatically. 
